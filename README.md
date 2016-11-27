@@ -5,8 +5,8 @@
 Project Robinhood is a curated repository of some of the best resources for designers and developers created by our team at Hashnode 💯🎉🎈
 
 ###Table of Contents
-* [Branding & Identity](#)  
-* [UI](#)
+* [Branding & Identity](https://github.com/Hashnode/design-resources/tree/master#branding--identity)  
+* [UI](https://github.com/Hashnode/design-resources/tree/master#ui)
 
 ###Branding & Identity
   1. [Perspective Business Card Mockup](https://dribbble.com/shots/3113768-Perspective-Business-Cards-Mockup)
