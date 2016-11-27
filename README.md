@@ -6,7 +6,7 @@ Project Robinhood is a curated repository of some of the best resources for desi
 
 ###Table of Contents
 * [Branding & Identity](https://github.com/Hashnode/design-resources/tree/master#branding--identity)  
-* [User Interface (UI)](https://github.com/Hashnode/design-resources/tree/master#ui)
+* [User Interface (UI)](https://github.com/Hashnode/design-resources/tree/master#user-interface-ui)
 
 ###Branding & Identity
   1. [Perspective Business Card Mockup](https://dribbble.com/shots/3113768-Perspective-Business-Cards-Mockup)
